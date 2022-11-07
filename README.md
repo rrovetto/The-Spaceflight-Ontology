@@ -2,6 +2,8 @@
 
 **Alternative names:** 
 - The Spaceflight Ontology, The Spaceflight Domain Ontology, The Astronautics Ontology, The Astronautics Domain Ontology, The Space Domain Ontology
+## Author
+Robert J. Rovetto
 
 ## Support
 If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
